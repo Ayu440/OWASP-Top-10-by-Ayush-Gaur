@@ -106,7 +106,7 @@ The OWASP Top 10 outlines critical security risks to help developers build secur
 Link: https://tryhackme.com/r/room/owasptop10
 
 2)	OWASP Testing Guide 4.0
-Link: OWASP Web Security Testing Guide | OWASP Foundation
+Link: https://owasp.org/www-project-web-security-testing-guide/
 
 3)	OWASP Web Security Testing Guide (WSTG)
 Link: https://owasp.org/www-project-web-security-testing-guide/
